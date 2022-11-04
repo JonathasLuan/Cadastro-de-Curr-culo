@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\Cadastro de Currículo\Cadastro de Currículo\obj\Debug\Cadastro de Currículo.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\Cadastro de Currículo\Cadastro de Currículo\obj\Debug\Cadastro de Currículo.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\Cadastro de Currículo\Cadastro de Currículo\bin\Debug\Cadastro de Currículo.exe.config
+C:\Users\Tecnico\source\repos\Cadastro de Currículo\Cadastro de Currículo\bin\Debug\Cadastro de Currículo.exe
+C:\Users\Tecnico\source\repos\Cadastro de Currículo\Cadastro de Currículo\bin\Debug\Cadastro de Currículo.pdb
+C:\Users\Tecnico\source\repos\Cadastro de Currículo\Cadastro de Currículo\obj\Debug\Cadastro de Currículo.exe
+C:\Users\Tecnico\source\repos\Cadastro de Currículo\Cadastro de Currículo\obj\Debug\Cadastro de Currículo.pdb
